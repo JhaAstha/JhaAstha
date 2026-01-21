@@ -8,7 +8,7 @@
  Tech Stack
 - Languages: C, C++, Python, Java
 - Web: HTML, CSS, JavaScript
-- Concepts: DSA, OOPs, DBMS
+- Concepts: DSA, OOPs, DBMS,Frontend ,FullStack
 - Tools: Git, GitHub, VS Code
 
 # What I'm Working On
